@@ -12,6 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^4.0.1",
-    "node-sass": "^4.9.4"
+    "node-sass": "^4.13.1"
   }
 }
